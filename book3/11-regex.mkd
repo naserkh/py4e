@@ -694,7 +694,7 @@ numbers and print out the average as an integer.**
 
 ~~~~
 Enter file:mbox.txt
-38549
+38667
 
 Enter file:mbox-short.txt
 39756
